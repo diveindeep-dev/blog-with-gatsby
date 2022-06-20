@@ -2,7 +2,7 @@
   "name": "dive-in-deep-blog",
   "version": "1.0.0",
   "private": true,
-  "description": "dive-in-deep-blog",
+  "description": "Blog with Gatsby",
   "author": "hakyung",
   "keywords": [
     "gatsby"
@@ -21,5 +21,8 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
   }
 }
